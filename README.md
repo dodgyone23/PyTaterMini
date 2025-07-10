@@ -17,3 +17,5 @@ if you want to keep it running after the terminal window is closed use:
 ```
 nohup python3 PyTaterMini.py >/dev/null 2>&1 &
 ```
+# PyTaterMiniCompany
+Edit Line 5 to your own Company ID

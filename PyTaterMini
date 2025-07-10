@@ -1,7 +1,7 @@
 import requests, json, time
 from hashlib import sha256
 
-host = "https://api.starch.one"
+host = "https://usa.relay.starch.one"
 miner_ids = ["00000000"] #miner list
 color = "#FEE600" #custom color
 

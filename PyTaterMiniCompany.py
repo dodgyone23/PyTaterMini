@@ -1,7 +1,7 @@
 import requests, json, time
 from hashlib import sha256
 
-host = "https://api.starch.one"
+host = "https://usa.relay.starch.one"
 company_id = "FEE600"
 color = f"#{company_id}"
 
